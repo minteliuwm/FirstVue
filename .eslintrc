@@ -2,6 +2,7 @@
   "parserOptions": {
     "ecmaVersion": 6
   },
+  "parser": "babel-eslint",
   "env": {
     "browser": true,
     "node": true,
@@ -23,7 +24,6 @@
     "indent": [0],
     "no-extra-boolean-cast": 1,
     "no-console": 1,
-    "semi": [2, "always"],
     "eqeqeq": 1,
     "comma-dangle": 1,
     "no-unused-vars": 1,
