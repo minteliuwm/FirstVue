@@ -1,6 +1,8 @@
-# test
+# 描述
 
-> test
+* 该项目主要是学习vue的过程中，根据vue的官方文档写的一个demo
+* 项目包含了vue，vue-router，vuex相关的基础知识信息
+* 项目框架直接基于vue-cli脚手架快速构建而成
 
 ## Build Setup
 
